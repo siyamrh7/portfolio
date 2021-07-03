@@ -19,7 +19,7 @@ export default function Intro() {
       <div className="left">
         <div className="imgContainer">
       
-          <img src="https://qph.fs.quoracdn.net/main-qimg-073ea8b86447ed9310e7e73bd89894b3" alt="" />
+          <img src="assets/man.png" alt="" />
         </div>
       </div>
       <div className="right">

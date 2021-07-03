@@ -20,7 +20,7 @@ export default function Testimonials() {
         "https://images.pexels.com/photos/428321/pexels-photo-428321.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       icon: "assets/youtube.png",
       desc:
-        "Yes I dont Have Any Review yet. I am new at Freelancing BUT I am not New at Programming . I Charge less beacuse I am new. But I can i say i can Provide you More than others . I build lots of Advance Web and Andoid application",
+        "Yes I dont Have Any Review yet. I am new at Freelancing BUT I am not New at Programming . I Charge less beacuse I am new. But I can Provide you More than others . I build lots of Advance Web and Andoid application",
       featured: true,
     },
     {
